@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+<channel>
+  <title>Aadi Ohja's website</title>
+  <link>https://aohja.github.io/</link>
+  <description>Aadi Ohja's website</description>
+  <image>
+      <url>https://avatars.githubusercontent.com/u/106124618?s=400&u=e8d94f2ff59e0d89985e47d042376685fbe82e59&v=4</url>
+      <title>Aadi Ohja's website</title>
+      <link>https://aohja.github.io/</link>
+  </image>
+
+<item>
+<title>Hello world</title>
+<link>https://aohja.github.io/general/2022/07/10/hello.html</link>
+<guid>https://aohja.github.io/general/2022/07/10/hello.html</guid>
+<pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+<description></description>
+</item>
+
+</channel>
+</rss>
